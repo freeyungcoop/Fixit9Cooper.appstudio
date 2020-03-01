@@ -1,0 +1,139 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "sbmt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "btnReset.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "inptNoun1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "inptNoun2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "inptNoun3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "inptVerb.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "inptAdjective.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "lblNouns.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "lblVerbs.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "lblAdjectives.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "MadLib",
+        "Elements",
+        "lblSentence.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 460,
+  "designWidth": 320,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "MadLib",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "scroll_options": "mouseWheel:true, bounce:true, zoom:false",
+  "scrolling": "false",
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
